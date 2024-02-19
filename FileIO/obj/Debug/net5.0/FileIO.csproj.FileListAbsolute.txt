@@ -1,0 +1,16 @@
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\bin\Debug\net5.0\FileIO.exe
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\bin\Debug\net5.0\FileIO.deps.json
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\bin\Debug\net5.0\FileIO.runtimeconfig.json
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\bin\Debug\net5.0\FileIO.runtimeconfig.dev.json
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\bin\Debug\net5.0\FileIO.dll
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\bin\Debug\net5.0\ref\FileIO.dll
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\bin\Debug\net5.0\FileIO.pdb
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\obj\Debug\net5.0\FileIO.csproj.AssemblyReference.cache
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\obj\Debug\net5.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\obj\Debug\net5.0\FileIO.AssemblyInfoInputs.cache
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\obj\Debug\net5.0\FileIO.AssemblyInfo.cs
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\obj\Debug\net5.0\FileIO.csproj.CoreCompileInputs.cache
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\obj\Debug\net5.0\FileIO.dll
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\obj\Debug\net5.0\ref\FileIO.dll
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\obj\Debug\net5.0\FileIO.pdb
+E:\Local\FileIOinCSharp\FileIOinCSharp\FileIO\obj\Debug\net5.0\FileIO.genruntimeconfig.cache
